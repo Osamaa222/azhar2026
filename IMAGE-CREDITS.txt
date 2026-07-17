@@ -1,0 +1,59 @@
+الصور المستخدمة في نموذج بوابة الأزهر الإلكترونية
+================================================
+
+1) images/azhar-mosque.jpg
+العنوان: Al Azhar Mosque.jpg
+المؤلف: Ahmed Yousry Mahfouz
+الترخيص: CC BY-SA 4.0
+المصدر: Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Al_Azhar_Mosque.jpg
+
+2) images/azhar-university.jpg
+العنوان: Al-Azhar University downtown campus.jpg
+المؤلف: Ashashyou
+الترخيص: CC BY-SA 4.0
+المصدر: Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Al-Azhar_University_downtown_campus.jpg
+
+3) images/azhar-scholars.jpg
+العنوان: Egypt, Cairo, Islamic scholars in the courtyard of Al-Azhar University.jpg
+المؤلف: Vyacheslav Argenberg
+الترخيص: CC BY 4.0
+المصدر: Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Egypt,_Cairo,_Islamic_scholars_in_the_courtyard_of_Al-Azhar_University.jpg
+
+4) images/azhar-courtyard.jpg
+العنوان: Al Azhar Mosque Interior (2346945969).jpg
+المؤلف: Francisco Anzola
+الترخيص: CC BY 2.0
+المصدر: Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Al_Azhar_Mosque_Interior_(2346945969).jpg
+
+صور السلايدر الجديدة
+--------------------
+
+5) images/hero-courtyard.webp
+العنوان: Cairo - Islamic district - Al Azhar Mosque and University central courtyard.JPG
+المؤلف: Daniel Mayer
+الترخيص: CC BY-SA 4.0
+المصدر: Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al_Azhar_Mosque_and_University_central_courtyard.JPG
+
+6) images/hero-scholars.webp
+العنوان: Egypt, Cairo, Islamic scholars in the courtyard of Al-Azhar University.jpg
+المؤلف: Vyacheslav Argenberg
+الترخيص: CC BY 4.0
+المصدر: Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Egypt,_Cairo,_Islamic_scholars_in_the_courtyard_of_Al-Azhar_University.jpg
+
+7) images/hero-university.webp
+العنوان: Al-Azhar University downtown campus.jpg
+المؤلف: Ashashyou
+الترخيص: CC BY-SA 4.0
+المصدر: Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Al-Azhar_University_downtown_campus.jpg
+
+تم قص الصور وتحجيمها وضغطها بصيغة WebP لتناسب مساحة السلايدر، دون تغيير موضوعها الأساسي.
+
+8) images/hero-mosque.webp
+مشتقة من images/azhar-mosque.jpg، وتم قصها وتحجيمها لتناسب السلايدر.
